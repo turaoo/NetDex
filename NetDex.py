@@ -46,6 +46,7 @@ BANNER = r"""
 |_| \_|\___|\__|____/ \___/_/\_\
 
   NetDex :: Gotta catch 'em all ports
+  Arthur Lima
 """
 
 
