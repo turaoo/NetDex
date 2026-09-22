@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-NetDex - Educational Network Reconnaissance Tool
+NetDex - Arthur Lima
 ==================================================
 A lightweight network scanner for learning host discovery, port scanning,
 and service/banner detection concepts. Built for use on Kali Linux.
